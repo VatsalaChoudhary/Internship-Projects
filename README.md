@@ -13,6 +13,6 @@ The goal is to build a predictive model that can accurately identify spam emails
 - 📝 Email text preprocessing (cleaning, tokenization, stopword removal)
 - 🔤 Feature extraction using TF-IDF Vectorization
 - 📊 Exploratory Data Analysis (EDA) with graphs and visualizations
-- 🤖 Model training using Machine Learning algorithms (Naive Bayes / Logistic Regression)
+- 🤖 Model training using Machine Learning algorithms (Naive Bayes / Logistic Regression/Support Vector Machine/Random Forest)
 - 📈 Performance evaluation using accuracy score, confusion matrix, and classification report
 - 📩 Prediction of new email messages as **Spam** or **Ham**
