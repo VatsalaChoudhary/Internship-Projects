@@ -1,6 +1,6 @@
-📧🚫Spam Email Classifier
+# 📧🚫 SPAM EMAIL CLASSIFIERS
 
-📌 Overview
+## 📌 OVERVIEW
 
 This project demonstrates how to classify email messages as **Spam** or **Not Spam (Ham)** using machine learning techniques. It includes **data preprocessing, text vectorization, model training, and evaluation** with performance metrics and visualizations.
 
@@ -8,7 +8,7 @@ The goal is to build a predictive model that can accurately identify spam emails
 
 
 
-⚙️ Features
+## ⚙️ FEATURES
 
 - 📝 Email text preprocessing (cleaning, tokenization, stopword removal)
 - 🔤 Feature extraction using TF-IDF Vectorization
